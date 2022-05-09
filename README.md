@@ -1,5 +1,5 @@
 # Flappy Bird Game
-
+ [Video](https://www.youtube.com/watch?v=RitLsQ28tWU&list=PLNukXZDkTp4O09tJip8V577drkjOFt2N_)
 # Description
 
 Flappy Bird is a game where you tap the screen to make the bird fly. This is a frustrating game to some people, as if you hit a pipe, your bird falls and you restart the game. However, some people believe that not fully focusing on the game or focusing only on the bottom pipe helps you get a higher score. 
